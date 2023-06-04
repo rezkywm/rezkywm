@@ -1,1 +1,1 @@
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=latgit&theme=monokai&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=latgit&theme=monokai&hide_border=true"></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rezkywm&theme=radical&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rezkywm&theme=radical&hide_border=true"></p>
